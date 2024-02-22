@@ -9,6 +9,16 @@ body {
     align-items: center;
     background-color: #006cfa;
     color: #fff;
-    padding: 10px 12px;
+    padding: 14px 16px;
+    min-height: 40px;
     border: 1px solid #fff;
+}
+
+.box-nested {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
